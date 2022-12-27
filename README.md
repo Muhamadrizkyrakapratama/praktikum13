@@ -1,5 +1,4 @@
 # praktikum13
-# Pertemuan14
 # **Operasi String**
 
 
